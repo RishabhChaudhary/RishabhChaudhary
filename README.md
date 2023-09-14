@@ -8,9 +8,7 @@
 #### [Data Science Portoflio](https://github.com/RishabhChaudhary/Data-Science-Portfolio) ##
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="youssefhosni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhchaudhary" alt="rishabhchaudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhchaudhary" alt="RishabhChaudhary" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
