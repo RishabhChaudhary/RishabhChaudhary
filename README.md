@@ -7,7 +7,7 @@
 🌱 I’m currently learning Agentic AI, creating agents using OpenAI Agentic SDK, CrewAI, LangGraph and AutoGen. I am passionate about the data and using AI to create applications to improve the people's lives.
 
 ### You can find my project and previous work here: ###
-## [Data Science Portoflio](https://github.com/RishabhChaudhary/Data-Science-Portfolio) ##
+## [Machine Learning Portoflio](https://github.com/RishabhChaudhary/Data-Science-Portfolio) ##
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="RishabhChaudhary" /> </p>
 
